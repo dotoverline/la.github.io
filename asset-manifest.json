@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/la.github.io/static/css/main.4efb37a3.css",
+    "main.js": "/la.github.io/static/js/main.6b455e61.js",
+    "index.html": "/la.github.io/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.6b455e61.js"
+  ]
+}
